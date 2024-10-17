@@ -1,0 +1,3 @@
+“I built a weather app using HTML, CSS, and JavaScript. The app allows users to check the current weather for any location by entering a city name.
+
+I structured the app with HTML for clear organization and accessibility. For styling, I used CSS to create a clean and responsive layout, ensuring it looks good on all devices. The real magic happens with JavaScript, where I fetch weather data from an API and display it dynamically. Users can see the temperature, humidity, and conditions right after entering a city.
